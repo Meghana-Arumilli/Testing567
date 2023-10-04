@@ -1,2 +1,1 @@
-
-[![<MeghanaArumilli>](https://circleci.com/gh/<MeghanaArumilli>/<Testing567>.svg?style=svg)](https://app.circleci.com/pipelines/github/<MeghanaArumilli>/<Testing567>?branch=main&filter=all)
+[![CircleCI](https://circleci.com/gh/Arumilli_Meghana/Testing567.svg?style=svg)](https://app.circleci.com/pipelines/github/Arumilli_Meghana/Testing567?branch=main&filter=all)
