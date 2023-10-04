@@ -1,1 +1,3 @@
-[![CircleCI](https://circleci.com/gh/Arumilli_Meghana/Testing567.svg?style=svg)](https://app.circleci.com/pipelines/github/Arumilli_Meghana/Testing567?branch=main&filter=all)
+# Triangle567
+
+[![build status of master](https://circle-ci.org/Meghana_Arumilli/Testing567.svg?branch=master)](https://circle-ci.org/Meghana_Arumilli/Testing567)
